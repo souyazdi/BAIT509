@@ -1,0 +1,11 @@
+
+
+1. A over B – However this is very hard to make an absolute decision
+    Pros: Less variance in the probability of meeting the mean productivity level thus, we can say that this employee is more probable to stay in the 75% level. Hiring A is taking less of a risk by hiring A once we are happy with 75%. 
+    Cons: Productivity spectrum of object A is limited compared to object B. And there is higher probability that B exceeds higher productivity level. Candidate A never can have productivity 80% while B has this chance.
+
+2. B 
+   No matter what the true value is for candidate B it is always going to be greater than candidate A. B is more productive in general. By introducing a second predictor into this decision this could be easier to decide which candidate is more appropriate for which type of activities.
+
+3. This forecast is biased
+   Fixing: reduce the tuning parameters (reduce K, the window)
