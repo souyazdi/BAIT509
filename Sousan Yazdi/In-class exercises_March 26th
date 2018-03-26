@@ -11,10 +11,10 @@ Which observations receive a penalty? Which observations are the support vectors
 * 6 - 7- 9 - 10 and 8: They cross their marginal boundary
 
 What is the total penalty here?
-* 0.25 + 0.25 + 1.75 + 1.25 = 3.5
+* 0.25 + 0.25 + 1.75 + 1.25 + 2.25 = 5.75
 
 Can I choose a bigger margin if my total allowable penalty is 6?
-* 
+* Yes 
 
 Are the data separable? If so, what are the support vectors?
 * Yes, a margin with support vectors of 4 - 8 - 9
